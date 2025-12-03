@@ -1,0 +1,7 @@
+C:\Users\stepu\source\repos\Comb4\Comb4\obj\Debug\Comb4.csproj.AssemblyReference.cache
+C:\Users\stepu\source\repos\Comb4\Comb4\obj\Debug\Comb4.csproj.CoreCompileInputs.cache
+C:\Users\stepu\source\repos\Comb4\Comb4\bin\Debug\Comb4.exe.config
+C:\Users\stepu\source\repos\Comb4\Comb4\bin\Debug\Comb4.exe
+C:\Users\stepu\source\repos\Comb4\Comb4\bin\Debug\Comb4.pdb
+C:\Users\stepu\source\repos\Comb4\Comb4\obj\Debug\Comb4.exe
+C:\Users\stepu\source\repos\Comb4\Comb4\obj\Debug\Comb4.pdb
