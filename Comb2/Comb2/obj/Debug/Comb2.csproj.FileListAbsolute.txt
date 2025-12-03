@@ -1,0 +1,8 @@
+C:\Users\stepu\source\repos\Comb2\Comb2\bin\Debug\Comb2.exe.config
+C:\Users\stepu\source\repos\Comb2\Comb2\bin\Debug\Comb2.exe
+C:\Users\stepu\source\repos\Comb2\Comb2\bin\Debug\Comb2.pdb
+C:\Users\stepu\source\repos\Comb2\Comb2\obj\Debug\Comb2.csproj.AssemblyReference.cache
+C:\Users\stepu\source\repos\Comb2\Comb2\obj\Debug\Comb2.csproj.CoreCompileInputs.cache
+C:\Users\stepu\source\repos\Comb2\Comb2\obj\Debug\Comb2.exe
+C:\Users\stepu\source\repos\Comb2\Comb2\obj\Debug\Comb2.pdb
+C:\Users\stepu\source\repos\Comb2\Comb2\obj\Debug\Comb2.exe.config
