@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stepu\\source\\repos\\Comb1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAA79EF-4C25-4E6F-AF09-A0DF88808E77}|Comb1\\Comb1.csproj|c:\\users\\stepu\\source\\repos\\comb1\\comb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAA79EF-4C25-4E6F-AF09-A0DF88808E77}|Comb1\\Comb1.csproj|solutionrelative:comb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stepu\\source\\repos\\Comb1\\Comb1\\Program.cs",
+              "RelativeDocumentMoniker": "Comb1\\Program.cs",
+              "ToolTip": "C:\\Users\\stepu\\source\\repos\\Comb1\\Comb1\\Program.cs",
+              "RelativeToolTip": "Comb1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:14:07.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
