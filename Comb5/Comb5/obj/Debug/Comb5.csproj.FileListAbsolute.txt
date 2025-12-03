@@ -1,0 +1,8 @@
+C:\Users\stepu\source\repos\Comb5\Comb5\bin\Debug\Comb5.exe.config
+C:\Users\stepu\source\repos\Comb5\Comb5\bin\Debug\Comb5.exe
+C:\Users\stepu\source\repos\Comb5\Comb5\bin\Debug\Comb5.pdb
+C:\Users\stepu\source\repos\Comb5\Comb5\obj\Debug\Comb5.csproj.AssemblyReference.cache
+C:\Users\stepu\source\repos\Comb5\Comb5\obj\Debug\Comb5.csproj.CoreCompileInputs.cache
+C:\Users\stepu\source\repos\Comb5\Comb5\obj\Debug\Comb5.exe
+C:\Users\stepu\source\repos\Comb5\Comb5\obj\Debug\Comb5.pdb
+C:\Users\stepu\source\repos\Comb5\Comb5\obj\Debug\Comb5.exe.config
